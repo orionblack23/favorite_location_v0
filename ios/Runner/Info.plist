@@ -26,6 +26,10 @@
 	<string>We need to take a picture</string>
 	<key>NSCameraUsageDescription</key><!-- key to use camera from Image Picker plugin for Flutter-->
 	<string>We need to take a picture</string>
+	<key>NSLocationWhenInUseUsageDescription</key><!-- key to use camera from Image Picker plugin for Flutter-->
+	<string>We need to take a picture</string>
+	<key>NSLocationAlwaysUsageDescription</key><!-- key to use camera from Image Picker plugin for Flutter-->
+	<string>We need to take a picture</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
